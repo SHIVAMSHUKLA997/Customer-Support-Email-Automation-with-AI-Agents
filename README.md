@@ -72,5 +72,6 @@ This is the detailed flow of the system:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/ShivamShukla99/langgraph-email-automation.git
-   cd langgraph-email-automation
+  git clone https://github.com/SHIVAMSHUKLA997/Customer-Support-Email-Automation-with-AI-Agents-and-RAG.git
+cd Customer-Support-Email-Automation-with-AI-Agents-and-RAG
+
